@@ -37,7 +37,7 @@ body {
   color: #007864;
 }
 
-.X {
+.X, .reset {
   color: #931b1b;
 }
 
@@ -54,10 +54,6 @@ body {
 
 .new-game {
   color: green;
-}
-
-.reset {
-  color: #931b1b;
 }
 
 #msg {
