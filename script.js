@@ -40,6 +40,7 @@ boxes.forEach((box) => {
 
 const resetGame = () => {
   turnO = true;
+  moveCount = 0;
   enableBoxes();
   msgContainer.classList.add('hide');
 }
